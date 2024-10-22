@@ -17,11 +17,11 @@ Este proyecto contiene una implementación de la clase `DesviacionEstandar`, que
 ## Ejecución de la Aplicación
 Para ejecutar la aplicación y calcular la media y desviación estándar, sigue estos pasos:
 
-1.- Abre una terminal.
-2.- Navega hasta el directorio donde se encuentra el archivo DesviacionEstandar.py.
-3.- Ejecuta el siguiente comando:
+1. Abre una terminal.
+2. Navega hasta el directorio donde se encuentra el archivo DesviacionEstandar.py.
+3. Ejecuta el siguiente comando:
     python DesviacionEstandar.py
-4.- Sigue las instrucciones en pantalla para ingresar números. Escribe "salir" cuando desees terminar la entrada de datos.
+4. Sigue las instrucciones en pantalla para ingresar números. Escribe "salir" cuando desees terminar la entrada de datos.
 Ejemplo:
 ==========================================================================================
     Ingresa un número (o 'salir' para terminar): 5
@@ -35,9 +35,9 @@ Ejemplo:
     
 Para ejecutar las pruebas unitarias, sigue estos pasos:
 
-1.- Abre una terminal.
-2.- Navega hasta el directorio donde se encuentra el archivo de prueba Prueba.py.
-3.-Ejecuta el siguiente comando:
+1. Abre una terminal.
+2. Navega hasta el directorio donde se encuentra el archivo de prueba Prueba.py.
+3. Ejecuta el siguiente comando:
 ==========================================================================================
     python -m unittest pruebas.py
 ==========================================================================================
