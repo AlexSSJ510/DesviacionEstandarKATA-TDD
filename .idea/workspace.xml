@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5f7c22-4e6a-4033-b1a9-2145bfc2a053" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DesviacionEstandarKATATDD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/DesvEstandar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Pruebas.py" afterDir="false" />
+    <list default="true" id="2b5f7c22-4e6a-4033-b1a9-2145bfc2a053" name="Changes" comment="DesviacionEstandar-KATATDD Version 0.3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -45,7 +43,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -94,6 +92,27 @@
       <option name="presentableId" value="Default" />
       <updated>1729630446429</updated>
     </task>
+    <task id="LOCAL-00001" summary="DesviacionEstandar-KATATDD Version 0.3">
+      <option name="closed" value="true" />
+      <created>1729631013405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729631013405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DesviacionEstandar-KATATDD Version 0.3">
+      <option name="closed" value="true" />
+      <created>1729631098551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729631098551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DesviacionEstandar-KATATDD Version 0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="DesviacionEstandar-KATATDD Version 0.3" />
   </component>
 </project>
