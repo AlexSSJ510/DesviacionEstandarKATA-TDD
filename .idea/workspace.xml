@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2b5f7c22-4e6a-4033-b1a9-2145bfc2a053" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/DesviacionEstandarKATATDD.iml" afterDir="false" />
