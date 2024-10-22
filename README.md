@@ -23,14 +23,14 @@ Para ejecutar la aplicación y calcular la media y desviación estándar, sigue 
     python DesviacionEstandar.py
 4. Sigue las instrucciones en pantalla para ingresar números. Escribe "salir" cuando desees terminar la entrada de datos.
 Ejemplo:
-==========================================================================================
-    Ingresa un número (o 'salir' para terminar): 5
-    Ingresa un número (o 'salir' para terminar): 10
-    Ingresa un número (o 'salir' para terminar): 15
-    Ingresa un número (o 'salir' para terminar): salir
-    Promedio: 10.0
-    Desviación Estándar: 5.0
-==========================================================================================
+========================================
+Ingresa un número (o 'salir' para terminar): 5
+Ingresa un número (o 'salir' para terminar): 10
+Ingresa un número (o 'salir' para terminar): 15
+Ingresa un número (o 'salir' para terminar): salir
+Promedio: 10.0
+Desviación Estándar: 5.0
+======================================
 ## Ejecución de Pruebas
     
 Para ejecutar las pruebas unitarias, sigue estos pasos:
@@ -38,6 +38,6 @@ Para ejecutar las pruebas unitarias, sigue estos pasos:
 1. Abre una terminal.
 2. Navega hasta el directorio donde se encuentra el archivo de prueba Prueba.py.
 3. Ejecuta el siguiente comando:
-==========================================================================================
-    python -m unittest pruebas.py
-==========================================================================================
+=======================================================
+python -m unittest pruebas.py
+=======================================================
